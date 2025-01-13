@@ -1,1 +1,44 @@
-# LeetCode-Solutions
+# LeetCode Solutions
+本仓库记录我在 [LeetCode](https://leetcode.cn/) 上的刷题过程，包含实现代码、题解、学习笔记和相关资源。所有代码使用 C++ 实现。
+
+# 热题 100
+【[题解](./top100/README.md)】
+
+题库：[LeetCode 热题 100](https://leetcode-cn.com/problemset/hot-100/)
+
+- 哈希
+  - [x] [1. 两数之和](./top100/hash/1-Two-Sum.cpp)
+  - [ ] 49. 字母异位词分组
+  - [ ] 128. 最长连续序列
+
+- 双指针
+
+- 滑动窗口
+
+- 子串
+
+- 普通数组
+
+- 矩阵
+
+- 链表
+
+- 二叉树
+
+- 图论
+
+- 回溯
+
+- 二分查找
+
+- 栈
+
+- 堆
+
+- 贪心算法
+
+- 动态规划
+
+- 多维动态规划
+
+- 技巧
